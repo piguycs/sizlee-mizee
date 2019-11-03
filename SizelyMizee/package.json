@@ -1,0 +1,15 @@
+{
+  "name": "SizelyMizee",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
