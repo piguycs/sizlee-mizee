@@ -18,7 +18,7 @@ client.on('message', msg => {
 
 client.on('message', msg => {
   if (msg.content === '!hi') {
-    msg.send('I am online')
+    msg.reply('I am online')
   }
 })
 
